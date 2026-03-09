@@ -3,8 +3,6 @@ margin:0;
 font-family:Arial;
 }
 
-/* navbar */
-
 header{
 width:100%;
 position:absolute;
@@ -37,8 +35,6 @@ cursor:pointer;
 color:#ff305b;
 }
 
-/* hero section */
-
 .hero{
 height:100vh;
 background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("desk.jpg.avif");
@@ -47,8 +43,6 @@ background-position:center;
 overflow:hidden;
 color:white;
 }
-
-/* center text by margin */
 
 .text{
 width:400px;
@@ -78,4 +72,5 @@ to{width:260px;}
 0%{border-color:white;}
 50%{border-color:transparent;}
 100%{border-color:white;}
+
 }
